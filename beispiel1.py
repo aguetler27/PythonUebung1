@@ -1,3 +1,4 @@
 # beispiel1.py
 print ("Hallo Welt!")
-print ("Lokale Version")
+print("Hello Universe!")
+print("Hallo Alle!!!")
